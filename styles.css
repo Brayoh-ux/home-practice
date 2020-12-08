@@ -189,6 +189,9 @@
     clear: both;
     display: table;
   }
+  footer{
+  text-align: center;
+  }
   
   /* Change styles for cancel button and signup button on extra small screens */
   @media screen and (max-width: 300px) {
